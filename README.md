@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/AitzazImtiaz/Public-Images/blob/main/Untitled%20design.png" width="350" height="250">
 
-ImtiazGermain is a C++ library, that will be used as a security feature in the cryptographical core of B Consortium, in dedication to mathematician Sophie Germain. The library being elementary in nature in the C++ ``long long`` limitation fits limited numbers until an overflow error occurs.
+ImtiazGermain is a C++ library, that will be used as a security feature in the cryptographical core of B Consortium, in dedication to mathematician Sophie Germain. The library being elementary in nature in the C++ ``long long`` limitation fits limited numbers until an overflow error occurs. Another limitation to consider is the use of OS limitations to be Windows Operating System of Windows 10+.
 
 An implementation of the following code to check Germain prime of number 11 is as follows:
 ```
